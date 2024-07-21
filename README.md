@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you want to find out more about my current and past projects, please visit [my personal homepage.](https://kasra-hosseini.github.io/)
+If you want to find out more about my current and past projects, please visit [my personal homepage.](https://www.linkedin.com/in/kasra-hosseini/)
 
 <!--
 **kasra-hosseini/kasra-hosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
